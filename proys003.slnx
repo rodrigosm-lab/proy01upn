@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="proys003/proys003.csproj" />
+  <Project Path="proys003_c/proys003_c.csproj" />
+  <Project Path="proys003_d/proys003_d.csproj" />
+</Solution>
